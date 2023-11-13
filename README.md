@@ -7,4 +7,4 @@ This is a simple proxy server for the DeepL API.
 
 ## Usage
 
-https://ideeplx.vercel.app/jsonrpc ~> https://www2.deepl.com/jsonrpc
+https://ideepl.vercel.app/jsonrpc ~> https://www2.deepl.com/jsonrpc
